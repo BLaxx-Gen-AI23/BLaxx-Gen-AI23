@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BLaxx-Gen-AI23
+- 👋 Hi, I’m Makaveli Nzinga
 - 👀 I’m interested in A.I, coding, IoT and Cybersecurity offensive/defensive  
 - 🌱 I’m currently learning A.I, coding, IoT and Cybersecurity offensive/defensive
 - 💞️ I’m looking to collaborate on creating a team of knowledgeable people in all fields of Computer Science 
